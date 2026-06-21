@@ -1,4 +1,4 @@
-# Fitness Planner (myproproject)
+# Fitness Planner
 
 A simple Windows Forms (WinForms) personal fitness application written in C# that provides meal planning, workout tracking and progress logging. This repository contains a .NET Framework 4.7.2 WinForms application that uses a MySQL database to store users, meals, user meal plans, workouts and progress entries.
 
